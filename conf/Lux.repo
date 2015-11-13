@@ -1,0 +1,5 @@
+[Lux]
+name=Lux Packages for Enterprise Linux 7
+baseurl=http://repo.iotti.biz/CentOS/7/
+enabled=0
+gpgcheck=0
